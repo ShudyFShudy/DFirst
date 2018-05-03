@@ -1,0 +1,107 @@
+/*************************
+    Base Elements
+**************************/
+body {
+    line-height: 1.6;
+}
+
+a {
+    color: darkgreen;
+    text-decoration: none;
+
+}
+
+.main-footer a {
+    color: black;
+}
+
+
+.fab {
+    width: 11%;
+    word-spacing: 15px;
+    display: inline-block;
+    border: 1px solid #ffffff;
+}
+
+/*************************
+    Base Layout
+**************************/
+
+/* ----- Navigation ----- */
+
+.name {
+    margin-top: 0;
+}
+
+.featfirst {
+    float: left;
+    width: 45%;
+}
+
+.feattwo {
+    float: right;
+    width: 45%;
+}
+
+.clearfix::after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+/* ----- Layout Conteiners ----- */
+
+h3 {
+
+    color: lime;
+}
+
+.main-header {
+    width: 100%;
+    padding: 1em 0;
+    background: white;
+}
+
+.main-footer {
+    width: 100%;
+    text-align: center;
+    margin: 0 auto;
+    padding: 2em 0;
+    background: darkgray;
+}
+
+.main-wrapper {
+    width: 70%;
+    margin: 0 auto;
+}
+
+.centerr {
+    text-align: center;
+}
+
+.name {
+    text-align: center;
+}
+
+.hr, .hr li {
+    margin: 0;
+    padding: 0;
+}
+
+.hr {
+    text-align: center;
+}
+
+.hr li {
+    display: inline-block;
+    text-align: center;
+}
+
+.hr a {
+    display: block;
+    padding: 5px 15px;
+    font-size: 150%;
+    text-decoration: none;
+}
+
+/* ----- Media Queries ----- */
