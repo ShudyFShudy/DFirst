@@ -46,11 +46,11 @@
           <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/css/style.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="164">
-                  <caret line="118" column="8" lean-forward="false" selection-start-line="118" selection-start-column="8" selection-end-line="118" selection-end-column="8" />
+                <state relative-caret-position="17">
+                  <caret line="108" column="4" lean-forward="true" selection-start-line="108" selection-start-column="4" selection-end-line="108" selection-end-column="4" />
                   <folding>
-                    <marker date="1525968787017" expanded="true" signature="387:620" ph="{...}" />
-                    <marker date="1525968787017" expanded="true" signature="624:626" ph="{...}" />
+                    <marker date="1525969238520" expanded="true" signature="387:620" ph="{...}" />
+                    <marker date="1525969238520" expanded="true" signature="624:626" ph="{...}" />
                   </folding>
                 </state>
               </provider>
@@ -180,7 +180,7 @@
       <workItem from="1525269543875" duration="1087000" />
       <workItem from="1525358260440" duration="10608000" />
       <workItem from="1525371355718" duration="627000" />
-      <workItem from="1525964424317" duration="3902000" />
+      <workItem from="1525964424317" duration="4383000" />
     </task>
     <task id="LOCAL-00001" summary="F1">
       <created>1525371541553</created>
@@ -217,11 +217,18 @@
       <option name="project" value="LOCAL" />
       <updated>1525968593104</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="f3">
+      <created>1525968797192</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1525968797192</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29255000" />
+    <option name="totallyTimeSpent" value="29736000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -286,8 +293,8 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1525968787017" expanded="true" signature="387:620" ph="{...}" />
-            <marker date="1525968787017" expanded="true" signature="624:626" ph="{...}" />
+            <marker date="1525969238520" expanded="true" signature="387:620" ph="{...}" />
+            <marker date="1525969238520" expanded="true" signature="624:626" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -313,8 +320,8 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1525968787017" expanded="true" signature="387:620" ph="{...}" />
-            <marker date="1525968787017" expanded="true" signature="624:626" ph="{...}" />
+            <marker date="1525969238520" expanded="true" signature="387:620" ph="{...}" />
+            <marker date="1525969238520" expanded="true" signature="624:626" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -340,8 +347,8 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1525968787017" expanded="true" signature="387:620" ph="{...}" />
-            <marker date="1525968787017" expanded="true" signature="624:626" ph="{...}" />
+            <marker date="1525969238520" expanded="true" signature="387:620" ph="{...}" />
+            <marker date="1525969238520" expanded="true" signature="624:626" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -367,8 +374,8 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1525968787017" expanded="true" signature="387:620" ph="{...}" />
-            <marker date="1525968787017" expanded="true" signature="624:626" ph="{...}" />
+            <marker date="1525969238520" expanded="true" signature="387:620" ph="{...}" />
+            <marker date="1525969238520" expanded="true" signature="624:626" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -459,11 +466,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="164">
-          <caret line="118" column="8" lean-forward="false" selection-start-line="118" selection-start-column="8" selection-end-line="118" selection-end-column="8" />
+        <state relative-caret-position="17">
+          <caret line="108" column="4" lean-forward="true" selection-start-line="108" selection-start-column="4" selection-end-line="108" selection-end-column="4" />
           <folding>
-            <marker date="1525968787017" expanded="true" signature="387:620" ph="{...}" />
-            <marker date="1525968787017" expanded="true" signature="624:626" ph="{...}" />
+            <marker date="1525969238520" expanded="true" signature="387:620" ph="{...}" />
+            <marker date="1525969238520" expanded="true" signature="624:626" ph="{...}" />
           </folding>
         </state>
       </provider>
