@@ -109,11 +109,15 @@ h3 {
     .container {
         width: 90%;
         margin: 0 auto;
-        -webkit-flex-direction: column-reverse;
-        flex-direction: column-reverse;
     }
     .name {
         float: left;
+    }
+
+    .featfirst,
+    .feattwo {
+        -webkit-flex-direction: column-reverse;
+        flex-direction: column-reverse;
     }
 
 
