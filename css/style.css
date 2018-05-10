@@ -122,6 +122,8 @@ h3 {
     .featfirst,
     .feattwo {
         display: inline-block;
+        float: left;
+        width: 50%;
     }
 
 
