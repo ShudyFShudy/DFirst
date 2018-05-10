@@ -109,19 +109,19 @@ h3 {
     .container {
         width: 90%;
         margin: 0 auto;
-        display: grid;
-        grid-template-columns: 1fr 1fr;
-        grid-auto-rows: 2em;
-        grid-gap: .5em;
+
     }
     .name {
         float: left;
     }
 
-    .columns {
-        column-width: 200px;
-        max-width: 800px;
-        margin: 0 auto;
+    h3 {
+        text-align: center;
+    }
+
+    .featfirst,
+    .feattwo {
+        display: inline-block;
     }
 
 
