@@ -119,10 +119,12 @@ h3 {
         text-align: center;
     }
 
+    .log {
+        float: left;
+    }
+
     .featfirst,
     .feattwo {
-        display: inline-block;
-        float: left;
         width: 50%;
     }
 
