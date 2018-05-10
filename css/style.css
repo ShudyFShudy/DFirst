@@ -105,7 +105,7 @@ h3 {
 
 /* ----- Media Queries ----- */
 
-@media (min-width: 480px) {
+@media (max-width: 480px) {
     .container {
         width: 90%;
         margin: 0 auto;
